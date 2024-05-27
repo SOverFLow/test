@@ -1,0 +1,74 @@
+.rbc-event {
+  /* background-color: transparent !important; */
+  transition: all 0.3s ease;
+}
+
+.rbc-overlay {
+  z-index: 888 !important;
+  max-height: 333px !important;
+  overflow-y: auto !important;
+}
+
+.rbc-selected-cell {
+  background-color: #b5e2fa !important;
+  transition: all 0.3s ease;
+}
+
+/* button.rbc-button-link.rbc-show-more{
+  z-index: 9999 !important;
+  position: absolute !important;
+  top: 0px !important;
+
+} */
+
+.rbc-off-range-bg {
+  background-color: #FFFFFF !important;
+}
+
+.eventComponent {
+  transition: all 0.3s ease;
+}
+
+.eventComponent:hover {
+  transform: none !important;
+}
+
+.rbc-addons-dnd .rbc-addons-dnd-resize-ew-anchor .rbc-addons-dnd-resize-ew-icon {
+  transition: all 0.3s ease;
+  cursor: ew-resize	 !important;
+  height: 100% !important;
+  margin: -2px 0px !important;
+  border-left: 8px double #fff !important;
+  /* display: block; */
+}
+
+.rbc-addons-dnd-resize-ew-icon:hover {
+  transform: none !important;
+}
+
+.rbc-month-view {
+  transition: all 0.3s ease;
+}
+
+.rbc-month-row {
+  transition: all 0.3s ease;
+}
+
+
+.MuiBackdrop-root .MuiBackdrop-invisible .MuiModal-backdrop .css-g3hgs1-MuiBackdrop-root-MuiModal-backdrop
+{
+  background-color: red !important;
+  opacity: 0.5 !important;
+  display: none !important;
+}
+
+.MuiPopover-root .MuiModal-root .css-1kuzdj7-MuiModal-root-MuiPopover-root
+{
+  background-color: red !important;
+  opacity: 0.5 !important;
+  display: none !important;
+}
+
+.ant-popover-inner {
+  padding: 0px !important;
+}
